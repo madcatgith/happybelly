@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "MaDCaT <wasd.exe@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^9.4.10",
@@ -24,5 +24,9 @@
     "gulp-sass": "^4.0.2",
     "gulp-uglifyjs": "^0.6.2",
     "imagemin-pngquant": "^7.0.0"
+  },
+  "repository": "https://github.com/madcatgith/happybelly.git",
+  "dependencies": {
+    "bourbon": "^5.1.0"
   }
 }

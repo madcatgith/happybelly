@@ -1,0 +1,17 @@
+@include font-face(
+	"Rumpelstiltskin",
+	"../fonts/Rumpelstiltskin/Rumpelstiltskin",
+	("eot","woff","ttf")
+	) {
+	font-style: normal;
+	font-weight: normal;
+}
+
+@include font-face(
+	"Century Gothic",
+	"../fonts/Century Gothic/CenturyGothic",
+	("eot","woff","ttf")
+	) {
+	font-style: normal;
+	font-weight: normal;
+}
